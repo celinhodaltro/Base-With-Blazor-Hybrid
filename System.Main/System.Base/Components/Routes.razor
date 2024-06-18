@@ -10,3 +10,16 @@
 </Router>
 
 
+@code {
+    private Assembly[] GetAdditionalAssemblies()
+    {
+
+        var ExternalProjectAssemblies = Assembly.Load("System.Pages");
+        var loadedAssemblies = AppDomain.CurrentDomain.GetAssemblies();
+        var razorPageAssemblies = loadedAssemblies
+            .Where(assembly => assembly.GetTypes().Any(type => typeof(ComponentBase).IsAssignableFrom(type) && type.GetCustomAttributes(typeof(RouteAttribute), true).Any()))
+            .ToArray();
+
+        return razorPageAssemblies;
+    }
+}
