@@ -1,0 +1,1 @@
+C:\Users\joaodaltro\source\repos\System.Base\System.Base\System.Base.csproj;x64
