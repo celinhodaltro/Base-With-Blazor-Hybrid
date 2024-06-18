@@ -1,17 +1,36 @@
 {
   "Version": 1,
-  "Hash": "ockN9LUHGcTYpJEATBtIH7E2OqKQTsd/lSentJDgRTc=",
+  "Hash": "L90F4ezkrd0P67SjwuNmE62WggjxxUzTAwo5Mqm+1dM=",
   "Source": "System.Base",
   "BasePath": "/",
   "Mode": "Root",
   "ManifestType": "Publish",
-  "ReferencedProjectsConfiguration": [],
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\joaodaltro\\source\\repos\\System.Base\\System.Main\\System.Pages\\System.Pages.csproj",
+      "Version": 2,
+      "Source": "System.Pages",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
   "DiscoveryPatterns": [
     {
       "Name": "System.Base\\wwwroot",
       "Source": "System.Base",
       "ContentRoot": "C:\\Users\\joaodaltro\\source\\repos\\System.Base\\System.Main\\System.Base\\wwwroot\\",
       "BasePath": "/",
+      "Pattern": "**"
+    },
+    {
+      "Name": "System.Pages\\wwwroot",
+      "Source": "System.Pages",
+      "ContentRoot": "C:\\Users\\joaodaltro\\source\\repos\\System.Base\\System.Main\\System.Pages\\wwwroot\\",
+      "BasePath": "_content/System.Pages",
       "Pattern": "**"
     }
   ],
@@ -148,6 +167,44 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\joaodaltro\\source\\repos\\System.Base\\System.Main\\System.Pages\\wwwroot\\background.png",
+      "SourceId": "System.Pages",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\joaodaltro\\source\\repos\\System.Base\\System.Main\\System.Pages\\wwwroot\\",
+      "BasePath": "_content/System.Pages",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "C:\\Users\\joaodaltro\\source\\repos\\System.Base\\System.Main\\System.Pages\\wwwroot\\exampleJsInterop.js",
+      "SourceId": "System.Pages",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\joaodaltro\\source\\repos\\System.Base\\System.Main\\System.Pages\\wwwroot\\",
+      "BasePath": "_content/System.Pages",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
     }
   ]
 }

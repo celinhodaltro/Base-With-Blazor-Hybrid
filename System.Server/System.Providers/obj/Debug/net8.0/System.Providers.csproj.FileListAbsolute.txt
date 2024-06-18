@@ -1,0 +1,12 @@
+C:\Users\joaodaltro\source\repos\System.Base\System.Server\System.Providers\bin\Debug\net8.0\System.Providers.deps.json
+C:\Users\joaodaltro\source\repos\System.Base\System.Server\System.Providers\bin\Debug\net8.0\System.Providers.dll
+C:\Users\joaodaltro\source\repos\System.Base\System.Server\System.Providers\bin\Debug\net8.0\System.Providers.pdb
+C:\Users\joaodaltro\source\repos\System.Base\System.Server\System.Providers\obj\Debug\net8.0\System.Providers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaodaltro\source\repos\System.Base\System.Server\System.Providers\obj\Debug\net8.0\System.Providers.AssemblyInfoInputs.cache
+C:\Users\joaodaltro\source\repos\System.Base\System.Server\System.Providers\obj\Debug\net8.0\System.Providers.AssemblyInfo.cs
+C:\Users\joaodaltro\source\repos\System.Base\System.Server\System.Providers\obj\Debug\net8.0\System.Providers.csproj.CoreCompileInputs.cache
+C:\Users\joaodaltro\source\repos\System.Base\System.Server\System.Providers\obj\Debug\net8.0\System.Providers.sourcelink.json
+C:\Users\joaodaltro\source\repos\System.Base\System.Server\System.Providers\obj\Debug\net8.0\System.Providers.dll
+C:\Users\joaodaltro\source\repos\System.Base\System.Server\System.Providers\obj\Debug\net8.0\refint\System.Providers.dll
+C:\Users\joaodaltro\source\repos\System.Base\System.Server\System.Providers\obj\Debug\net8.0\System.Providers.pdb
+C:\Users\joaodaltro\source\repos\System.Base\System.Server\System.Providers\obj\Debug\net8.0\ref\System.Providers.dll

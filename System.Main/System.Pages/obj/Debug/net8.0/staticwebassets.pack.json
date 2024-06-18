@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\joaodaltro\\source\\repos\\System.Base\\System.Main\\System.Pages\\wwwroot\\background.png",
+      "PackagePath": "staticwebassets\\background.png"
+    },
+    {
+      "Id": "C:\\Users\\joaodaltro\\source\\repos\\System.Base\\System.Main\\System.Pages\\wwwroot\\exampleJsInterop.js",
+      "PackagePath": "staticwebassets\\exampleJsInterop.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.System.Pages.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.System.Pages.props",
+      "PackagePath": "build\\System.Pages.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.System.Pages.props",
+      "PackagePath": "buildMultiTargeting\\System.Pages.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.System.Pages.props",
+      "PackagePath": "buildTransitive\\System.Pages.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

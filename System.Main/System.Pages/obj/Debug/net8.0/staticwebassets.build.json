@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "KLfkoYa5JBKRB9rPcUzzsX7UAMnCBzh5WKZJRCgu8sg=",
+  "Source": "System.Pages",
+  "BasePath": "_content/System.Pages",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "System.Pages\\wwwroot",
+      "Source": "System.Pages",
+      "ContentRoot": "C:\\Users\\joaodaltro\\source\\repos\\System.Base\\System.Main\\System.Pages\\wwwroot\\",
+      "BasePath": "_content/System.Pages",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\joaodaltro\\source\\repos\\System.Base\\System.Main\\System.Pages\\wwwroot\\background.png",
+      "SourceId": "System.Pages",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\joaodaltro\\source\\repos\\System.Base\\System.Main\\System.Pages\\wwwroot\\",
+      "BasePath": "_content/System.Pages",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "C:\\Users\\joaodaltro\\source\\repos\\System.Base\\System.Main\\System.Pages\\wwwroot\\exampleJsInterop.js",
+      "SourceId": "System.Pages",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\joaodaltro\\source\\repos\\System.Base\\System.Main\\System.Pages\\wwwroot\\",
+      "BasePath": "_content/System.Pages",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
+    }
+  ]
+}

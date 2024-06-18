@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.10.35004.147
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "System.Base", "System.Main\System.Base\System.Base.csproj", "{FDC59AEC-2050-43B1-934C-EFF80390677B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{0D3101AF-CC65-405B-86FA-0E67D56962BF} = {0D3101AF-CC65-405B-86FA-0E67D56962BF}
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "System.Pages", "System.Main\System.Pages\System.Pages.csproj", "{0D3101AF-CC65-405B-86FA-0E67D56962BF}"
 EndProject
@@ -11,7 +14,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "System.Main", "System.Main"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "System.Server", "System.Server", "{0CB284BA-FAE0-473D-8FA7-E536DAF7C63F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "System.Providers", "System.Server\System.Providers\System.Providers.csproj", "{36C199E4-332B-4630-B584-F63D3A594B3A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "System.Providers", "System.Server\System.Providers\System.Providers.csproj", "{36C199E4-332B-4630-B584-F63D3A594B3A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
